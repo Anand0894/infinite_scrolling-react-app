@@ -1,0 +1,7 @@
+# infinite_scrolling-react-app
+login page, login fake credentials, infinite_scrolling
+
+
+image 1: login page
+image 2 : login with fake credenitials (user_name : foo & password : bar)
+image 3 : infinte scrolling down page with one second loading (also added logout button)
